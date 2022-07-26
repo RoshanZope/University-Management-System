@@ -1,0 +1,8 @@
+G:\asp.net project\New folder\University Management System\bin\University Management System.dll
+G:\asp.net project\New folder\University Management System\bin\University Management System.pdb
+G:\asp.net project\New folder\University Management System\obj\Debug\University Management System.dll
+G:\asp.net project\New folder\University Management System\obj\Debug\University Management System.pdb
+G:\asp.net project\University Management System\bin\University Management System.dll
+G:\asp.net project\University Management System\bin\University Management System.pdb
+G:\asp.net project\University Management System\obj\Debug\University Management System.dll
+G:\asp.net project\University Management System\obj\Debug\University Management System.pdb
